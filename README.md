@@ -1,7 +1,7 @@
 
 # Profile Card
 
-A profile card project built using HTML and CSS. Rakib Ahmed Khan.
+A profile card project built using HTML and CSS.  Rakib Ahmed Khan.
 
 ## About the Project
 
